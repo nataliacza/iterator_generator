@@ -1,2 +1,2 @@
-# iterator_generator
-Example of iterator and generator
+# Iterator vs Generator
+Simple example of iterator and generator in use.
